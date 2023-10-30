@@ -91,4 +91,3 @@ new_frame = Yt_next.reshape((height,width))
 #Save to .npy files
 np.save(output_file,new_frame)    
 np.save("outputNoise.npy",new_frame_noise)
-### FINISH ME
