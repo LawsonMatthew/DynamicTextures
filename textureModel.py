@@ -1,7 +1,3 @@
-  #Citations:
-#-	https://towardsdatascience.com/probability-concepts-explained-maximum-likelihood-estimation-c7b4342fdbb1
-#-	https://towardsdatascience.com/decomposing-eigendecomposition-f68f48470830
-#-
 from matplotlib import pyplot as plt
 import argparse
 import numpy as np
