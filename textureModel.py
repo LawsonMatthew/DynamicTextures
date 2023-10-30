@@ -1,7 +1,7 @@
 from matplotlib import pyplot as plt
 import argparse
 import numpy as np
-from scipy.linalg import pinv, svd # Your only additional allowed imports!
+from scipy.linalg import pinv, svd
 
 def flatten_video(video_data):
     Y = []
